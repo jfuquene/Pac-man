@@ -2,6 +2,7 @@ const width = 28
 const grid = document.getElementsByClassName("grid")
 const score = document.getElementById("score")
 const squares = []
+const score = 0
 
 //28 * 28 = 784
   // 0 - pac-dots
